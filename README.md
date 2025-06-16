@@ -28,7 +28,7 @@ flask db upgrade
 
 ### 4. Seed the Database
 ```bash
-python server/seed.py
+python server/seed.py or python -m server.seed
 ```
 
 ---
