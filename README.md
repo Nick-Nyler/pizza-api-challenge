@@ -156,4 +156,4 @@ Creates a new restaurant-pizza relationship.
 
 Built for Software Engineering Phase 4 Code Challenge  
 [NIXON OCHIENG] | [GitHub Profile](https://github.com/Nick-Nyler)
-                  [LinkedIn](https://www.linkedin.com/in/nixon-ochieng-a9a623218)
+                  [LinkedIn Profile](https://www.linkedin.com/in/nixon-ochieng-a9a623218)
