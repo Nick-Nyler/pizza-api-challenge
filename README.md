@@ -85,7 +85,7 @@ If not found:
 { "error": "Restaurant not found" }
 ```
 
-### 🗑 DELETE /restaurants/<int:id>
+###  DELETE /restaurants/<int:id>
 Deletes a restaurant and its related restaurant_pizzas.
 - **Success:** 204 No Content
 - **Not found:** 404
